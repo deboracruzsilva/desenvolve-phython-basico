@@ -1,0 +1,6 @@
+1 Receba o valor inteiro de "n" #Entrada
+2 Enquanto ("n"<10) e ("n"= 10)  #Processamento
+3	Criar uma variável inteira "x", que recebe (n-1) #Processamento
+4	Criar uma variável "y", que recebe (10-n)  #Processamento
+5   	Criar uma variável "z" que recebe ((x*10)+y)  #Processamento
+6 Imprimir: "9x(valor de "n")=(valor de "z")" #Saída
