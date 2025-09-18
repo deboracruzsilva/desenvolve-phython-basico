@@ -1,2 +1,5 @@
 # desenvolve-phython-basico
-Repositório destinado as atividades de Phython básico.
+
+- Projeto Desenvolve - Itabira
+- Programação básica com Python
+- Matrícula : PDITA763
