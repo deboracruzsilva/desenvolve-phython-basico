@@ -1,0 +1,12 @@
+with open("meus_livros.csv", "w", encoding="utf-8") as arquivo:
+    arquivo.write("Título,Autor,Ano de publicação,Número de páginas\n")
+    arquivo.write("Até que nada mais importe,Luciano Subirá,2016,224\n")
+    arquivo.write("Cartas do Diabo a um Jovem Aprendiz,C. S. Lewis,1942,160\n")
+    arquivo.write("A Liturgia do Ordinário,Tish Harrison Warren,2016,192\n")
+    arquivo.write("1984,George Orwell,1949,328\n")
+    arquivo.write("Cristianismo Puro e Simples,C. S. Lewis,1952,224\n")
+    arquivo.write("A Metamorfose,Franz Kafka,1915,96\n")
+    arquivo.write("A Sociedade da Caveira de Cristal,Alexandre Costa,2013,160\n")
+    arquivo.write("Noites Brancas,Fiódor Dostoiévski,1848,96\n")
+    arquivo.write("A Revolução dos Bichos,George Orwell,1945,112\n")
+    arquivo.write("O Peso da Glória,C. S. Lewis,1949,160\n")
